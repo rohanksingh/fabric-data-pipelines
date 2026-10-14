@@ -29,7 +29,7 @@ This project demonstrates an end-to-end data pipeline in Microsoft Fabric using 
 ## Screenshots
 
 
-!fabric_powerbi_trail_1.0.png
+![alt text](fabric_powerbi_trail_1.0.png)
 
 https://github.com/rohanksingh/fabric-data-pipelines/blob/main/fabric_powerbi_trail_1.0.png
 
