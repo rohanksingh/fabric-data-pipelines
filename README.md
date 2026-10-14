@@ -27,3 +27,5 @@ This project demonstrates an end-to-end data pipeline in Microsoft Fabric using 
 5. Run the `nyc_taxi_discount_pipeline`.
 
 ## Screenshots
+
+fabric_powerbi_trail_1.0.png
