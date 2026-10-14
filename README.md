@@ -26,6 +26,13 @@ This project demonstrates an end-to-end data pipeline in Microsoft Fabric using 
 4. Reconnect the Dataflow and Copy Job to your specific Lakehouse and data sources.
 5. Run the `nyc_taxi_discount_pipeline`.
 
+   ## Tools Used
+*   Microsoft Fabric (Trial Capacity)
+*   Dataflow Gen2 (Power Query)
+*   Copy Job
+*   Data Pipeline Orchestration
+*   Delta Lake / Lakehouse
+
 ## Screenshots
 
 
